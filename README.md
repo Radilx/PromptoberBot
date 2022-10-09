@@ -8,5 +8,4 @@
 6. Voting could be for 24 hours each posts.
 7. The one with the most votes win.
 
-We can restrict users so that they can only submit once per 24 hrs. We can run this for the whole month of Promptober. After then, then maybe it could be once a week? Or even twice a month.
-
+We should restrict users so that they can only submit once per 24 hrs. W
