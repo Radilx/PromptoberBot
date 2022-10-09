@@ -8,4 +8,9 @@
 6. Voting could be for 24 hours each posts.
 7. The one with the most votes win.
 
-We should restrict users so that they can only submit once per 24 hrs. W
+We should restrict users so that they can only submit once per 24 hrs. 
+
+Ideas for list of words: 
+
+- https://holidappy.com/holidays/halloween-words-and-halloween-vocabulary-lists
+- https://grammar.yourdictionary.com/word-lists/spooky-halloween-words.html
